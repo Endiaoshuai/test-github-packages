@@ -1,0 +1,11 @@
+{
+  "name": "endiaoshuai-test-package",
+  "version": "1.0.0",
+  "description": "测试在 NPM 上发包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "endiaoshuai",
+  "license": "ISC"
+}
